@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.pt
+*.pth
+checkpoints/
+outputs/
